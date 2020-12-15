@@ -29,23 +29,23 @@
 /* Begin PBXFileReference section */
 		117DE5C629D5E6307BDB9A80F5601716 /* IFLYLameSDK-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "IFLYLameSDK-umbrella.h"; sourceTree = "<group>"; };
 		150F2BCE8C19D2792D1B088100D6C431 /* Pods-IFLYLameSDK_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-IFLYLameSDK_Tests.modulemap"; sourceTree = "<group>"; };
-		1605B023FC5B12FEDEE894199A500E1B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		1A8909800DE7A61DD170CFF20A5837E1 /* IFLYLameSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = IFLYLameSDK.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		1605B023FC5B12FEDEE894199A500E1B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		1A8909800DE7A61DD170CFF20A5837E1 /* IFLYLameSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = IFLYLameSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		2277D82EAB6EE1706FDE0BF4DD1C9EC3 /* Pods-IFLYLameSDK_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-IFLYLameSDK_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		59C42AC5A92021A103D485F1720DAD18 /* IFLYLameSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = IFLYLameSDK.debug.xcconfig; sourceTree = "<group>"; };
 		654555CB38C638F909C7A8592409F9F4 /* Pods-IFLYLameSDK_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-IFLYLameSDK_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		658CEB1D48A8BDCCC96D85381C442CB9 /* IFLYLameSDK-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "IFLYLameSDK-dummy.m"; sourceTree = "<group>"; };
-		669B06C673ED1A64E10547FA4165DD86 /* Pods_IFLYLameSDK_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IFLYLameSDK_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		669B06C673ED1A64E10547FA4165DD86 /* Pods_IFLYLameSDK_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_IFLYLameSDK_Tests.framework; path = "Pods-IFLYLameSDK_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FB77AB8A9C1C6CB6BD8FDD380A9DFB2 /* Pods-IFLYLameSDK_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-IFLYLameSDK_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		8D50A4DA9D968FAD9308B80C87DABA0C /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = IFLYLameSDK/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		8E83450766C6904C630C3CCF3B6990DF /* Pods-IFLYLameSDK_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-IFLYLameSDK_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		91C0E8AFA03688584136362D316D8766 /* Pods-IFLYLameSDK_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-IFLYLameSDK_Tests-dummy.m"; sourceTree = "<group>"; };
 		92629EBD7A56215B839EEF0FB55C9D5E /* IFLYLameSDK-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "IFLYLameSDK-prefix.pch"; sourceTree = "<group>"; };
-		95FB1FAC4034E528211057B5B0F7AE91 /* IFLYLameSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IFLYLameSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		95FB1FAC4034E528211057B5B0F7AE91 /* IFLYLameSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = IFLYLameSDK.framework; path = IFLYLameSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A130E593A8B3EE8FD7FF0A949B6B53C7 /* IFLYLameSDK.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = IFLYLameSDK.modulemap; sourceTree = "<group>"; };
-		ADCF9FF6522418EA59A028DAEE8BE2CD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		ADCF9FF6522418EA59A028DAEE8BE2CD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		B52AA4320179DCF108B024D11562A36C /* Pods-IFLYLameSDK_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-IFLYLameSDK_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		B7E520C4B9E2D6E955C0C77C75339B34 /* Pods-IFLYLameSDK_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-IFLYLameSDK_Tests-umbrella.h"; sourceTree = "<group>"; };
 		BE190E0AF531C48AF082A3F1E0905D21 /* IFLYLameSDK-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "IFLYLameSDK-Info.plist"; sourceTree = "<group>"; };
@@ -345,37 +345,6 @@
 			};
 			name = Debug;
 		};
-		0916424492F58843B391409E30F158D3 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 59C42AC5A92021A103D485F1720DAD18 /* IFLYLameSDK.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/IFLYLameSDK/IFLYLameSDK-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/IFLYLameSDK/IFLYLameSDK-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/IFLYLameSDK/IFLYLameSDK.modulemap";
-				PRODUCT_MODULE_NAME = IFLYLameSDK;
-				PRODUCT_NAME = IFLYLameSDK;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		264A9F638BB029C9415E7128794E01AD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -430,7 +399,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -501,10 +471,11 @@
 			};
 			name = Debug;
 		};
-		655918B8F5CC7889A3AE2CA6CE940EC3 /* Release */ = {
+		52744EE066A2DE34FE5122568A5F8E96 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DB8CED5534E58541C8E75F6B5493B4AD /* IFLYLameSDK.release.xcconfig */;
+			baseConfigurationReference = 59C42AC5A92021A103D485F1720DAD18 /* IFLYLameSDK.debug.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -517,7 +488,39 @@
 				GCC_PREFIX_HEADER = "Target Support Files/IFLYLameSDK/IFLYLameSDK-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/IFLYLameSDK/IFLYLameSDK-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/IFLYLameSDK/IFLYLameSDK.modulemap";
+				PRODUCT_MODULE_NAME = IFLYLameSDK;
+				PRODUCT_NAME = IFLYLameSDK;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		D583217389452542D80DEB099B5FD406 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DB8CED5534E58541C8E75F6B5493B4AD /* IFLYLameSDK.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/IFLYLameSDK/IFLYLameSDK-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/IFLYLameSDK/IFLYLameSDK-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/IFLYLameSDK/IFLYLameSDK.modulemap";
 				PRODUCT_MODULE_NAME = IFLYLameSDK;
@@ -591,8 +594,8 @@
 		B209832DA1DBA90808C8B318A278E11E /* Build configuration list for PBXNativeTarget "IFLYLameSDK" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0916424492F58843B391409E30F158D3 /* Debug */,
-				655918B8F5CC7889A3AE2CA6CE940EC3 /* Release */,
+				52744EE066A2DE34FE5122568A5F8E96 /* Debug */,
+				D583217389452542D80DEB099B5FD406 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
