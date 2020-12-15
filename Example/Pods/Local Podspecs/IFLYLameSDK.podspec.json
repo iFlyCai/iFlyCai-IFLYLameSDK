@@ -1,9 +1,9 @@
 {
   "name": "IFLYLameSDK",
   "version": "0.0.1",
-  "summary": "shixian iOS wenjiandezhuanhuangsadfsdfasdfafqjwieth",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/zhangchengcai3615@126.com/IFLYLameSDK",
+  "summary": "IFLYLameSDK是一个第三方库,用来实现iOS客户端m4a音频文件到mp3文件的转换",
+  "description": "IFLYLameSDK是一个第三方库,用来实现iOS客户端m4a音频文件到mp3文件的转换.目前版本为0.01",
+  "homepage": "https://github.com/iFlyCai/iFlyCai-IFLYLameSDK",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "zhangchengcai3615@126.com": "zhangchengcai3615@126.com"
   },
   "source": {
-    "git": "https://github.com/zhangchengcai3615@126.com/IFLYLameSDK.git",
+    "git": "https://github.com/iFlyCai/iFlyCai-IFLYLameSDK.git",
     "tag": "0.0.1"
   },
   "platforms": {
