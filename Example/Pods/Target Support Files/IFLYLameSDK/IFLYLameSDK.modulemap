@@ -1,0 +1,6 @@
+framework module IFLYLameSDK {
+  umbrella header "IFLYLameSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

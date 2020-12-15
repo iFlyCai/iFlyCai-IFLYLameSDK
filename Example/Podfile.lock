@@ -1,0 +1,16 @@
+PODS:
+  - IFLYLameSDK (0.1.0)
+
+DEPENDENCIES:
+  - IFLYLameSDK (from `../`)
+
+EXTERNAL SOURCES:
+  IFLYLameSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IFLYLameSDK: d238e93dd0398bc3ebda3e772d066df613ff8b7c
+
+PODFILE CHECKSUM: bd22f234ebedff18f753ba5dac6cc36c5eb262d8
+
+COCOAPODS: 1.10.0.rc.1

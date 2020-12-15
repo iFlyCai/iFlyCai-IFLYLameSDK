@@ -1,0 +1,22 @@
+{
+  "name": "IFLYLameSDK",
+  "version": "0.1.0",
+  "summary": "A short description of IFLYLameSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhangchengcai3615@126.com/IFLYLameSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangchengcai3615@126.com": "zhangchengcai3615@126.com"
+  },
+  "source": {
+    "git": "https://github.com/zhangchengcai3615@126.com/IFLYLameSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "IFLYLameSDK/Classes/**/*"
+}
