@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  IFLYLameSDK是一个第三方库,用来实现iOS客户端m4a音频文件到mp3文件的转换.目前版本为0.01
                        DESC
 
   s.homepage         = 'https://github.com/iFlyCai/iFlyCai-IFLYLameSDK'
