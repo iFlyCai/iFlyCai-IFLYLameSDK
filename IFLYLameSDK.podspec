@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'IFLYLameSDK'
   s.version          = '0.0.1'
-  s.summary          = 'shixian iOS wenjiandezhuanhuangsadfsdfasdfafqjwieth'
+  s.summary          = 'IFLYLameSDK是一个第三方库,用来实现iOS客户端m4a音频文件到mp3文件的转换'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
